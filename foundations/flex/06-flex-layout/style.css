@@ -63,9 +63,9 @@ button {
 .buttons{
   display:flex;
   align-items: center;
-justify-content: center;
-padding: 10px;
-gap: 4px;
+  justify-content: center;
+  padding: 10px;
+  gap: 4px;
 }
 .input{
     display:flex;
